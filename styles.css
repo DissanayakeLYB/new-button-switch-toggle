@@ -27,10 +27,10 @@ button{
     border-radius: 2rem;
     border: none;
     margin-left: -3.9rem;
-    animation-duration: 5s;
+    transition-duration: 0.3s;
 }
 
 button:focus{
     margin-left: 3.9rem;
-    animation-duration: 5s;
+    transition-duration: 0.3s;
 }

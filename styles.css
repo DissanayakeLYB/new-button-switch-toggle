@@ -22,11 +22,15 @@ section{
 
 button{
     display: relative;
-    align-self: center;
     width: 4rem;
     height: 4rem;
     border-radius: 2rem;
     border: none;
-    position: relative;
-    margin-left: 0;
+    margin-left: -3.9rem;
+    animation-duration: 5s;
+}
+
+button:focus{
+    margin-left: 3.9rem;
+    animation-duration: 5s;
 }

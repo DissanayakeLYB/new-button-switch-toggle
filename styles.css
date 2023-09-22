@@ -36,3 +36,9 @@ button:focus{
     transition-duration: 0.3s;
 
 }
+
+button:focus{
+    margin-left: 3.9rem;
+    transition-duration: 0.3s;
+
+}
